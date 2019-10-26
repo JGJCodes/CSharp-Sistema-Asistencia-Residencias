@@ -1,0 +1,71 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCAsistencias.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCEmpleados.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCEntradas.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCSalidas.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formAcerca.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formAsistencia.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formDatosEmpleado.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formFaltas.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formNeuronal.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formReportes.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Main.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\bin\Debug\Sistema.Control.Asistencia.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\bin\Debug\Sistema.Control.Asistencia.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\FaceRecProOV\obj\x86\Debug\Sistema.Control.Asistencia.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\bin\Debug\Sistema.Control.Asistencia.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\bin\Debug\Sistema.Control.Asistencia.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\bin\Debug\Emgu.CV.xml
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\bin\Debug\Emgu.Util.xml
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCAsistencias.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCEmpleados.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCEntradas.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCSalidas.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formAcerca.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formDatosEmpleado.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formFaltas.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formNeuronal.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formReportes.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Main.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formDatosDia.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.formCapturarFoto.resources
+C:\Users\George\Documents\Visual Studio 2013\Projects\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.formRegAsistencia.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\bin\Debug\Sistema.Control.Asistencia.exe.config
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\bin\Debug\Sistema.Control.Asistencia.exe
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\bin\Debug\Sistema.Control.Asistencia.pdb
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\bin\Debug\Emgu.CV.xml
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\bin\Debug\Emgu.Util.xml
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.csprojAssemblyReference.cache
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCAsistencias.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCEmpleados.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCEntradas.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formABCSalidas.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formAcerca.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formDatosDia.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formDatosEmpleado.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formFaltas.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formNeuronal.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Formularios.formReportes.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Main.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.formCapturarFoto.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.formRegAsistencia.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.Properties.Resources.resources
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.csproj.GenerateResource.cache
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.csproj.CopyComplete
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.exe
+C:\Users\jorge\Repos\VISUAL STUDIO\C#\Sistema.Control.Asistencia\obj\x86\Debug\Sistema.Control.Asistencia.pdb
